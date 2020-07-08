@@ -1,0 +1,229 @@
+/* 文章 */
+.fo_is {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.fo_is .fo_fl {
+  width: 860px;
+  float: left;
+  padding: 8px;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .listTitle {
+  width: 855px;
+  border-bottom: 1px dotted #989595;
+  height: 30px;
+  line-height: 30px;
+}
+
+.fo_is .fo_fl .listTitle h2 {
+  font-size: 12px;
+  font-weight: 100;
+}
+
+.fo_is .fo_fl .listTitle h2 a {
+  color: #000;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.fo_is .fo_fl .listTitle h2 a:hover {
+  color: #123cb9;
+}
+
+.fo_is .fo_fl .con {
+  width: 860px;
+}
+
+.fo_is .fo_fl .con li {
+  height: 134px;
+  padding: 17px 0;
+  border-bottom: 1px dotted #ddd;
+}
+
+.fo_is .fo_fl .con li .con_Fl {
+  float: left;
+}
+
+.fo_is .fo_fl .con li .con_Fl img {
+  width: 177px;
+  height: 130px;
+  border: none;
+  vertical-align: top;
+  margin-left: 10px;
+}
+
+.fo_is .fo_fl .con li .con_Fr {
+  float: right;
+  width: 72%;
+  font-size: 13px;
+}
+
+.fo_is .fo_fl .con li .con_Fr span {
+  height: 30px;
+  line-height: 35px;
+}
+
+.fo_is .fo_fl .con li .con_Fr span a {
+  font-weight: 700;
+  color: #555;
+}
+
+.fo_is .fo_fl .con li .con_Fr p {
+  color: #999;
+  line-height: 25px;
+}
+
+.fo_is .fo_fl .con li .con_Fr p a {
+  margin-right: 10px;
+  color: #555;
+}
+
+.fo_is .fo_fl .con li .con_Fr a:hover {
+  color: #123cb9;
+}
+
+.fo_is .fo_fl .pageList {
+  height: 40px;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .pageList ul {
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .pageList ul li:nth-child(9) {
+  border: 0;
+}
+
+.fo_is .fo_fl .pageList ul li {
+  float: left;
+  border: 1px solid #ddd;
+  height: 22px;
+  margin-left: 5px;
+}
+
+.fo_is .fo_fl .pageList ul li a {
+  padding: 5px 5px;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.fo_is .fo_fl .pageList ul li .pageInfo {
+  font-size: 14px;
+}
+
+.fo_is .fo_fl .pageList ul li:hover {
+  background-color: #333;
+}
+
+.fo_is .fo_fl .pageList ul li:hover a {
+  color: #fff;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+
+
+
+
+
+
+
+
+.con {
+  width: 840px !important;
+  padding-right: 20px;
+  border-right: 1px solid #d9d9d9;
+  overflow: hidden;
+  font-size: 15px;
+  line-height: 35px;
+  color: #333;
+  min-height: 950px;
+}
+
+.fo_is {
+  height: 1050px !important;
+}
+
+.con li:first-child {
+  height: 285px !important;
+  border-bottom: 1px solid #ddd;
+}
+
+.con li:nth-child(2) {
+  height: 335px !important;
+}
+
+.con li:nth-child(3) {
+  height: 270px !important;
+}
+
+.context {
+  float: left;
+  margin-left: 20px;
+  line-height: 24px;
+  color: #666;
+  width: 485px;
+  overflow: hidden;
+  display: inline;
+  margin-top: 45px;
+}
+
+.context p {
+  line-height: 24px;
+  font-family: '宋体';
+  font-size: 14px;
+  text-indent: 2em;
+  float: left;
+  color: #333;
+  margin-left: 15px;
+}
+
+.context2 {
+  float: left;
+  margin-left: 20px;
+  line-height: 24px;
+  color: #666;
+  overflow: hidden;
+  display: inline;
+  margin-top: 45px;
+}
+
+.context2 p {
+  line-height: 24px;
+  text-indent: 2em;
+  font-family: '宋体';
+  font-size: 14px;
+  float: left;
+  color: #333;
+}
+
+.context3 {
+  padding-top: 45px;
+}
+
+.context3 .contImg {
+  float: left;
+  margin-left: 10px;
+}
+
+.context3 .p {
+  float: left;
+  margin-left: 20px;
+  line-height: 24px;
+  color: #666;
+  width: 485px;
+  overflow: hidden;
+  display: inline;
+}
+
+.context3 .p p {
+  line-height: 24px;
+  font-family: '宋体';
+  font-size: 14px;
+  text-indent: 2em;
+  float: left;
+  color: #333;
+}
